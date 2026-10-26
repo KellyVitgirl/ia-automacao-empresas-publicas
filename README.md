@@ -74,8 +74,7 @@ Os arquivos serão adicionados ao repositório como evidências do aprendizado.
 
 ## Link do notebook
 
-**Link compartilhado:** a inserir antes da entrega.
-
+[Acessar meu Gemini Notebook](https://notebook.google.com/notebook/ba830db0-99ff-4727-bbe8-eb2d28464607)
 ## Conclusão
 
 O projeto demonstrou como o Gemini Notebook pode funcionar como um segundo cérebro para estudar tecnologias de automação utilizando informações de fontes confiáveis.
